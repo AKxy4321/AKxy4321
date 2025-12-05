@@ -47,11 +47,6 @@ A chatbot enabling conversational querying of large PDFs.
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🏆 Achievements
-
-- Merit-based scholarship for ranking in the **top 5%** of B.Tech cohort  
-- Winner of **Tarkash’25 Data Analytics Hackathon** (data cleaning, visualization, insights presentation)  
-
 ## 📊 GitHub Stats
 
 <div align="center">

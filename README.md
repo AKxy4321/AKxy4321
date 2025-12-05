@@ -52,20 +52,10 @@ A chatbot enabling conversational querying of large PDFs.
 ### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv7/YOLOv8-000?style=flat)
-![Model Pruning](https://img.shields.io/badge/Model%20Pruning-4F46E5?style=flat)
-
-### ML & Data
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ### APIs & Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere_Reranker-000?style=flat)
-![Tavily](https://img.shields.io/badge/Tavily_Search-0A7EB7?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)  
 :contentReference[oaicite:5]{index=5}
 
 ---

@@ -28,18 +28,16 @@ Structured pruning applied to LeNet-5, VGG-16, ResNet-50, and DenseNet-121 on MN
 - **98.5% FLOP reduction**  
 - **0.8–5% accuracy loss**  
 - **14.5× smaller models** enabling edge deployment  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
-### 📚 PDFBot Llama  
+### [📚 PDFBot Llama](https://github.com/AKxy4321/PDFBot_Llama)  
 **Python • LLaMA • OpenAI API • Gradio**  
 A chatbot enabling conversational querying of large PDFs.  
 - Supports **200-page PDF** ingestion  
 - Three interfaces: OpenAI Jupyter, Ollama Jupyter, and Gradio web UI  
 - **≈90% answer accuracy**  
 - **≈28s avg response** due to local hardware limits  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -56,7 +54,6 @@ A chatbot enabling conversational querying of large PDFs.
 ### APIs & Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-:contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -64,7 +61,6 @@ A chatbot enabling conversational querying of large PDFs.
 
 - Merit-based scholarship for ranking in the **top 5%** of B.Tech cohort  
 - Winner of **Tarkash’25 Data Analytics Hackathon** (data cleaning, visualization, insights presentation)  
-:contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -83,7 +79,7 @@ A chatbot enabling conversational querying of large PDFs.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux,vscode,anaconda,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux,vscode&theme=dark" />
 
 </div>
 

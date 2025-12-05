@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=36&fontColor=ffffff&fontAlignY=50)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:1b2845&height=220&section=header&text=Aditya%20Kushal&fontSize=48&fontColor=ffffff)
 
 <div align="center">
 
@@ -19,6 +19,7 @@ My focus is on **scalable, resource-efficient, and domain-adapted deep learning 
 
 ### 🌿 Deep Model Compression
 **PyTorch • TorchPruning • NumPy**
+Structured pruning applied to LeNet-5, VGG-16, ResNet-50, and DenseNet-121 on MNIST/CIFAR-10.  
 | Metric                   | Min     | Max          | Notes                   |
 | ------------------------ | --------------- | -------------------- | ----------------------- |
 | **Parameter reduction**  | 93.09% (VGG-16) | 99.6% (LeNet-5)      | —                       |

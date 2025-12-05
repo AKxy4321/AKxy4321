@@ -1,5 +1,4 @@
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,80:1b2845&height=220&section=header&text=Aditya%20Kushal&fontSize=48&fontColor=ffffff)](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,80:1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=32&fontColor=ffffff
-)
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,80:1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=32&fontColor=ffffff)
 
 <div align="center">
 

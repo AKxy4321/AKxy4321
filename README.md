@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:1b2845&height=220&section=header&text=Aditya%20Kushal&fontSize=48&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,80:1b2845&height=220&section=header&text=Aditya%20Kushal&fontSize=48&fontColor=ffffff)
 
 <div align="center">
 
@@ -31,7 +31,6 @@ Structured pruning applied to LeNet-5, VGG-16, ResNet-50, and DenseNet-121 on MN
 **Python • LLaMA • OpenAI API • Gradio**  
 A chatbot enabling conversational querying of large PDFs.  
 - Supports **200-page PDF** ingestion  
-- Three interfaces: OpenAI Jupyter, Ollama Jupyter, and Gradio web UI  
 - **≈90% answer accuracy**  
 - **≈28s avg response** due to local hardware limits  
 

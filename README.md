@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=36&fontColor=ffffff&top=60)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=36&fontColor=ffffff&fontAlignY=50)
 
 <div align="center">
 
@@ -19,7 +19,7 @@ My focus is on **scalable, resource-efficient, and domain-adapted deep learning 
 
 ### 🌿 Deep Model Compression
 **PyTorch • TorchPruning • NumPy**
-| Metric                   | Lower Limit     | Upper Limit          | Notes                   |
+| Metric                   | Min     | Max          | Notes                   |
 | ------------------------ | --------------- | -------------------- | ----------------------- |
 | **Parameter reduction**  | 93.09% (VGG-16) | 99.6% (LeNet-5)      | —                       |
 | **FLOPs reduction**      | 91.75% (VGG-16) | 98.5% (ResNet-50)    | —                       |

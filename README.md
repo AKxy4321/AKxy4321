@@ -20,10 +20,10 @@ My focus is on **scalable, resource-efficient, and domain-adapted deep learning 
 ### 🌿 Deep Model Compression  
 **PyTorch • TorchPruning • NumPy**  
 Structured pruning applied to LeNet-5, VGG-16, ResNet-50, and DenseNet-121 on MNIST/CIFAR-10.  
-- **99.6% parameter reduction**  
-- **98.5% FLOP reduction**  
-- **0.8–5% accuracy loss**  
-- **14.5× smaller models** enabling edge deployment  
+- **93.09-99.6% parameter reduction**  
+- **91.75-98.5% FLOPS reduction**  
+- **1.14–5.09% accuracy loss**  
+- **14.48-255.07× smaller models** enabling edge deployment
 
 ### [📚 PDFBot Llama](https://github.com/AKxy4321/PDFBot_Llama)  
 **Python • LLaMA • OpenAI API • Gradio**  

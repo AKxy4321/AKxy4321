@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:1b2845&height=220&section=header&text=Aditya%20Kushal&fontSize=48&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=36&fontColor=ffffff)
 
 <div align="center">
 
@@ -11,8 +11,7 @@
 
 ## 🔥 About Me
 
-I build **efficient AI systems** optimized for **real-world deployment**, including **compressed neural networks**,  
-**object detection systems**, and **LLM-based retrieval agents**.  
+I build **efficient AI systems** optimized for **real-world deployment**, including **compressed neural networks**, **object detection systems**, and **LLM-based retrieval agents**.  
 My focus is on **scalable, resource-efficient, and domain-adapted deep learning models**.
 
 ## 🚀 Featured Projects
@@ -46,15 +45,6 @@ A chatbot enabling conversational querying of large PDFs.
 ### APIs & Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AKxy4321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKxy4321&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🛰️ Tech Stack Overview
 

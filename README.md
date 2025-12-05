@@ -1,16 +1,101 @@
-## Hi there 👋
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:1b2845&height=220&section=header&text=Aditya%20Kushal&fontSize=48&fontColor=ffffff)
 
-<!--
-**AKxy4321/AKxy4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Deep Learning • Computer Vision • Model Compression • LLM Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKxy4321)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakushal34@gmail.com)
+
+</div>
+
+---
+
+## 🔥 About Me
+
+I build **efficient AI systems** optimized for **real-world deployment**, including **compressed neural networks**,  
+**object detection systems**, and **LLM-based retrieval agents**.  
+My focus is on **scalable, resource-efficient, and domain-adapted deep learning models**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Deep Model Compression  
+**PyTorch • TorchPruning • NumPy**  
+Structured pruning applied to LeNet-5, VGG-16, ResNet-50, and DenseNet-121 on MNIST/CIFAR-10.  
+- **99.6% parameter reduction**  
+- **98.5% FLOP reduction**  
+- **0.8–5% accuracy loss**  
+- **14.5× smaller models** enabling edge deployment  
+:contentReference[oaicite:1]{index=1}
+
+---
+
+### 📚 PDFBot Llama  
+**Python • LLaMA • OpenAI API • Gradio**  
+A chatbot enabling conversational querying of large PDFs.  
+- Supports **200-page PDF** ingestion  
+- Three interfaces: OpenAI Jupyter, Ollama Jupyter, and Gradio web UI  
+- **≈90% answer accuracy**  
+- **≈28s avg response** due to local hardware limits  
+:contentReference[oaicite:3]{index=3}
+
+---
+
+## 🧠 Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv7/YOLOv8-000?style=flat)
+![Model Pruning](https://img.shields.io/badge/Model%20Pruning-4F46E5?style=flat)
+
+### ML & Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### APIs & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere_Reranker-000?style=flat)
+![Tavily](https://img.shields.io/badge/Tavily_Search-0A7EB7?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)  
+:contentReference[oaicite:5]{index=5}
+
+---
+
+## 🏆 Achievements
+
+- Merit-based scholarship for ranking in the **top 5%** of B.Tech cohort  
+- Winner of **Tarkash’25 Data Analytics Hackathon** (data cleaning, visualization, insights presentation)  
+:contentReference[oaicite:6]{index=6}
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AKxy4321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKxy4321&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🛰️ Tech Stack Overview
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux,vscode,anaconda,opencv&theme=dark" />
+
+</div>
+
+---
+

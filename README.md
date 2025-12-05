@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKxy4321)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakushal34@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/AKxy4321/Resume/blob/main/Aditya_Kushal_s_Resume.pdf)
 
 </div>
 
@@ -33,20 +34,6 @@ A chatbot enabling conversational querying of large PDFs.
 - **≈28s avg response** due to local hardware limits  
 
 ## 🧠 Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-### APIs & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 🛰️ Tech Stack Overview
 
 <div align="center">
 

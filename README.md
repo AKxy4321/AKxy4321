@@ -1,5 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=36&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=1b2845&height=140&section=footer)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1b2845&height=140&section=header&text=Aditya%20Kushal&fontSize=36&fontColor=ffffff&top=60)
 
 <div align="center">
 
@@ -20,11 +19,12 @@ My focus is on **scalable, resource-efficient, and domain-adapted deep learning 
 
 ### 🌿 Deep Model Compression
 **PyTorch • TorchPruning • NumPy**
-Structured pruning for LeNet-5, VGG-16, ResNet-50, and DenseNet-121 on MNIST/CIFAR-10:
-* **Parameter reduction:** 93.09% (VGG-16) → 99.6% (LeNet-5)
-* **FLOPs reduction:** 91.75% (VGG-16) → 98.5% (ResNet-50)
-* **Accuracy drop:** 1.14% (LeNet-5) → 5.09% (DenseNet-121)
-* **Model size shrinkage:** 14.48× (VGG-16) → 255.07× (LeNet-5), enabling edge deployment
+| Metric                   | Lower Limit     | Upper Limit          | Notes                   |
+| ------------------------ | --------------- | -------------------- | ----------------------- |
+| **Parameter reduction**  | 93.09% (VGG-16) | 99.6% (LeNet-5)      | —                       |
+| **FLOPs reduction**      | 91.75% (VGG-16) | 98.5% (ResNet-50)    | —                       |
+| **Accuracy drop**        | 1.14% (LeNet-5) | 5.09% (DenseNet-121) | —                       |
+| **Model size shrinkage** | 14.48× (VGG-16) | 255.07× (LeNet-5)    | Enables edge deployment |
 
 ### [📚 PDFBot Llama](https://github.com/AKxy4321/PDFBot_Llama)  
 **Python • LLaMA • OpenAI API • Gradio**  
